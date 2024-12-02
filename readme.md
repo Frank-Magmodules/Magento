@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://info.mollie.com/hubfs/github/magento-1/logo.png" width="128" height="128"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24823946/391595892-d1be0e74-ee7e-4c1c-b07a-a9a603dbc85b.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241202%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241202T150510Z&X-Amz-Expires=300&X-Amz-Signature=f67ff62efdbde223dbe1d7463b388276165b41cdeea72111d90bcece23d2ffea&X-Amz-SignedHeaders=host" />
+  
 </p>
-<h1 align="center">Magento 1.x plugin for Mollie</h1>
+<h1 align="left">Magento 1.x plugin for Mollie</h1>
 
 > **Magento 2.x** users check out our [Mollie Magento 2 plugin](https://github.com/mollie/magento2).
 
